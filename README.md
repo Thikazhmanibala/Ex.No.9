@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.: 212222110035
+# Date:25-05-25
+# Reg. No.: 212222060277
 # AIM:
 To explore and understand how different prompting techniques influence the quality and fidelity of AI-generated videos. This includes examining the effects of basic versus detailed prompts on visual composition, coherence, and stylistic accuracy in AI-driven video synthesis.
 
